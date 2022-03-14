@@ -1,0 +1,31 @@
+{
+    "compilerOptions": {
+        "target": "ES2019",
+        "declaration": true,
+        "declarationMap": true,
+        "useDefineForClassFields": false,
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "sourceMap": true,
+        "inlineSources": true,
+        "strict": true,
+        "forceConsistentCasingInFileNames": true,
+        "allowUnreachableCode": false,
+        "allowUnusedLabels": false,
+        "noImplicitAny": true,
+        "noImplicitReturns": true,
+        "noImplicitThis": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "strictPropertyInitialization": true,
+        "strictNullChecks": true,
+        "module": "ESNext",
+        "moduleResolution": "Node",
+        "jsx": "react-jsx",
+        "jsxImportSource": "react",
+        "outDir": "dist"
+    },
+    "include": [
+        "src"
+    ]
+}
